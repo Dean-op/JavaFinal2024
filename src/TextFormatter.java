@@ -1,3 +1,5 @@
+//TextFormatter类
+
 import javax.swing.JTextArea;
 
 public class TextFormatter {
